@@ -25,3 +25,9 @@ To build a simple calculator using Python.
    It calculates the BMI of an individual and informs them their weight cluster.
 
 ![bmi calculator](/screenshots/bmi.png)
+
+4. ### Leap Year Calculator
+   A simple leap year calculator using Python.
+   It checks if the given year is a leap year or not.
+
+![leap year calculator](/screenshots/leap-year.png)
