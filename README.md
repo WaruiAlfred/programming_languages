@@ -8,7 +8,14 @@ To build a simple calculator using Python.
 
 ## Assignment 2
 
-A simple age calculator using Python.
-It prints the age in years, months and days.
+1. ### Age Calculator
+   A simple age calculator using Python.
+   It prints the age in years, months and days.
 
 ![age calculator](/screenshots/age.png)
+
+2. ### Tip Calculator
+   A simple tip calculator using Python.
+   It calculates the tip amount and the total amount to be paid by an individual.
+
+![tip calculator](/screenshots/tip.png)
